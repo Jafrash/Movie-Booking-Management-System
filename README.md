@@ -1,4 +1,4 @@
-Movie Booking System - Java 8 example
+Movie Booking System 
 
 Files:
 - Movie.java
